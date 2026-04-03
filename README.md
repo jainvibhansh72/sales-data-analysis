@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Sales Data Analysis Project
 
 A data analysis project built using Python, Pandas, Numpy, Matplotlib and Seaborn to analyze sales performance across products, regions, and salespersons.
@@ -76,3 +77,7 @@ python sales_analysis.py
 **Vibhansh Jain**  
 B.Tech CSE — 2nd Year  
 GitHub: [jainvibhansh72](https://github.com/jainvibhansh72)
+=======
+# sales-data-analysis
+Sales Data Analysis project using Python, Pandas, Numpy, Matplotlib and Seaborn
+>>>>>>> f67927792d25d2c48e8d008a51acd25cfa2bbe9a
